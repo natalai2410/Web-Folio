@@ -1,0 +1,13 @@
+.header__link {
+	/*font-family: Epilogue;*/
+	font-size: 15px;
+	font-weight: 400;
+	line-height: 19px;
+	letter-spacing: 0;
+	text-align: left;
+	margin-left: 40px;
+}
+
+.header__link:first-child {
+	margin-left: 0;
+}

@@ -1,0 +1,15 @@
+.first__hire-btn {
+    width: 203px;
+	border-radius: 32px;
+	background: #FFFFFF;
+	height: 69px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-bottom: 100px;
+}
+
+.first__hire-btn:hover {
+	cursor: pointer;
+	opacity: 0.7;
+}

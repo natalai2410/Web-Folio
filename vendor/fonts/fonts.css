@@ -1,0 +1,19 @@
+@font-face {
+	font-family: "Epilogue";
+	src: url(./Epilogue/Epilogue-Regular.woff) format("woff"),
+	url(./Epilogue/Epilogue-Regular.woff2) format("woff2");
+	font-style: normal;
+	font-weight: normal;
+}
+
+
+@font-face {
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 400;
+	font-display: swap;
+	src: url(./Epilogue/Epilogue-Regular.woff2) format("woff2"),
+	url(./Epilogue/Epilogue-Regular.woff) format("woff");
+}
+
+
